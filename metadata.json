@@ -1,0 +1,6 @@
+{
+  "name": "LKPD Interaktif: Pemrograman Python Dasar (Variabel, Tipe Data & Perulangan)",
+  "description": "Lembar Kerja Peserta Didik (LKPD) Digital Interaktif Mata Pelajaran Koding dan Kecerdasan Artifisial Kelas X SMA/SMK dengan materi Variabel, Tipe Data, dan Perulangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
